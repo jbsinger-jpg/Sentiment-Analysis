@@ -1,0 +1,4 @@
+"C:\Users\jacob\PycharmProjects\DefaultInterpreter\Scripts\python.exe" "D:\Users\jacob\Sentiment-Analysis\Google.py"
+"C:\Users\jacob\PycharmProjects\DefaultInterpreter\Scripts\python.exe" "D:\Users\jacob\Sentiment-Analysis\Reddit.py"
+"C:\Users\jacob\PycharmProjects\DefaultInterpreter\Scripts\python.exe" "D:\Users\jacob\Sentiment-Analysis\Twitter.py"
+pause

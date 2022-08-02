@@ -1,0 +1,14 @@
+
+AAPL@https://en.wikipedia.org/wiki/Apple_Inc.@0.25@0.2833333333333333
+AAPL@https://finance.yahoo.com/quote/AAPL/@0.10416666666666667@0.43333333333333335
+MSFT@https://en.wikipedia.org/wiki/Microsoft@0.0@0.0
+AAPL@https://www.barrons.com/articles/apple-bonds-stock-buybacks-51659361679@0.0@0.0
+MSFT@https://www.marketwatch.com/story/microsoft-corp-stock-falls-monday-underperforms-market-01659385918-2e8be1b9c027@-0.065@0.5316666666666666
+GOOG@https://en.wikipedia.org/wiki/Google@0.1997354497354497@0.32910052910052906
+GOOGL@https://en.wikipedia.org/wiki/Alphabet_Inc.@0.0@0.0
+GOOGL@https://www.fool.com/investing/2022/08/01/where-will-alphabet-stock-be-in-1-year/@-0.20277777777777778@0.2694444444444445
+GOOGL@https://seekingalpha.com/article/4528092-google-bottom-is-in@0.0@0.0
+GOOGL@https://www.marketwatch.com/story/alphabet-inc-cl-a-stock-underperforms-monday-when-compared-to-competitors-01659385917-1c2d7fd8cf82@-0.04875@0.43624999999999997
+TSLA@https://en.wikipedia.org/wiki/Tesla,_Inc.@-1.0@1.0
+TSLA@https://finance.yahoo.com/news/musk-may-keep-selling-tesla-233000510.html@0.43500000000000005@0.6100000000000001
+FB@https://en.wikipedia.org/wiki/Meta_Platforms@0.375@0.75
